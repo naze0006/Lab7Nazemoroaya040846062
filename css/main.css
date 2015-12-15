@@ -1,0 +1,16 @@
+table{
+    width: 80%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    
+}
+
+td{
+ padding:20px;
+}
+
+
+.price{
+    background-color:azure;
+    padding: 1rem;
+}
